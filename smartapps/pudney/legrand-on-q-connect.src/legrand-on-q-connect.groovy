@@ -57,7 +57,7 @@ def getUSNQualifier() {
  * @return name
  */
 def getDeviceName() {
-    return "Bose SoundTouch"
+    return "Legrand On-Q"
 }
 
 /**
@@ -66,7 +66,7 @@ def getDeviceName() {
  * @return namespace
  */
 def getNameSpace() {
-    return "smartthings"
+    return "pudney"
 }
 
 /**
